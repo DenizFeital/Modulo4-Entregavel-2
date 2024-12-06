@@ -150,38 +150,47 @@ Informações sobre normalização e padronização
 
 ![image](https://github.com/user-attachments/assets/75ab2330-d154-4e60-a759-1e1f2c361131)
 
+Para a **Atividade 2** o objetivo foi implementar e comparar diferentes algoritmos de classificação: Os algoritmos escolhidos foram: 
+
+K-Nearest Neighbors (KNN);
+
+Random Forest;
+
+Logistic Regression.
+
+Comparando os três temos os seguintes resultados:
+
+Vale notar que a acurácia para o Random Forest foi um pouco abaixo, mas honestamente, os três apresentam resultados bem semelhantes.
+
+![image](https://github.com/user-attachments/assets/a5100091-c480-41f7-b389-699be5ff32ee)
+
+Sobre a matrix de confusão, tambem percebemos resultados semelhantes para os três, conforme abaixo:
 
 
+![image](https://github.com/user-attachments/assets/32e2c31b-ea0d-48bf-8a87-ea4ae1e6ea8e)
+
+![image](https://github.com/user-attachments/assets/22674852-0f3c-4098-8900-eee54c11f2cd)
+
+![image](https://github.com/user-attachments/assets/97102060-4ba5-4f9a-9b20-0b50bf41d864)
+
+Para a **Atividade 3** o objetivo foi otimizar os modelos para melhorar o desempenho (se necessário).
+
+Percebemos que neste caso, o ganho foi bem pequeno, comparado ao anterior, como vemos abaixo:
+
+![image](https://github.com/user-attachments/assets/f32fb20a-59de-468b-8f4c-9a09be833f7c)
+
+![image](https://github.com/user-attachments/assets/2b5e00dc-bbf9-43c8-b2d3-feb39b0aa924)
+
+![image](https://github.com/user-attachments/assets/25246c36-9a5a-447d-811f-ce3afeca029c)
+
+Como comparação, podemos realmente verificar que a diferença não foi grande:
+![image](https://github.com/user-attachments/assets/ece8ef1f-4c2d-4138-bc22-5b94ee52fc43)
+
+Para a **Atividade 4** o objetivo foi interpretar os resultados e extrair insights relevantes, que foi exatamente o que demonstrei neste documento.
 
 
+# <a name="c4"></a>5. Demais documentos e anexos
 
+## 4.1 Documentação.
 
-
-
-
-# <a name="c7"></a>Anexos
-
-*Inclua aqui quaisquer complementos para seu projeto, como diagramas, imagens, tabelas etc. Organize em sub-tópicos utilizando headings menores (use ## ou ### para isso).*
-
-Desenho físico do banco de dados (foi adicionado uma coluna (temperature_value) na tabela TB_MD3_HUMIDITY_READINGS):
-
-![image](https://github.com/user-attachments/assets/1785b788-9470-413f-a39c-f4ee8154098f)
-
-Solução ESP32:
-
-![image](https://github.com/user-attachments/assets/1d449443-5752-4ff2-a511-d0e51d375ef3)
-
-Análise através dos resultados obtidos com a regressão linear (antes e após os ajustes):
-
-![image](https://github.com/user-attachments/assets/8032cd6a-c0fc-4c21-b2b6-19a35790219a)
-
-
-![image](https://github.com/user-attachments/assets/314d24a2-12df-4f33-85d4-51995bfd8b1a)
-
-Utilização da ferramenta Streamlit:
-
-![image](https://github.com/user-attachments/assets/3fe7486f-0ee9-43bd-9450-57de20a527b5)
-
-
-![image](https://github.com/user-attachments/assets/0a4edd06-5342-4aa9-9fe3-bd9ac2f3e175)
-
+No diretório documents podemos encontrar também um arquivo PDF sobre o Jupiter notebook e o resultado apresentado.
