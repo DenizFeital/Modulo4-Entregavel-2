@@ -67,7 +67,6 @@ Etapa 6: Implantação do projeto e acompanhamento
 fonte: https://www.preditiva.ai/blog/entenda-o-crisp-dm-suas-etapas-e-como-de-fato-gerar-valor-com-essa-metodologia
 
 
-
 # <a name="c3"></a>3. Desenvolvimento do Projeto
 
 ## 3.1. Tecnologias Utilizadas
@@ -76,9 +75,7 @@ fonte: https://www.preditiva.ai/blog/entenda-o-crisp-dm-suas-etapas-e-como-de-fa
   
   Visual Studio Code
   
-  Linguagem C
-  
-  Banco de Dados Oracle
+  Jupiter Notebook
   
   ChatGPT
   
@@ -91,13 +88,57 @@ fonte: https://www.preditiva.ai/blog/entenda-o-crisp-dm-suas-etapas-e-como-de-fa
 
 ## 3.3. Treinamento e Teste
 
-Utilizamos o Python e modelos de regressão linear para estas atividades.
+Utilizamos o Python e três modelos: K-Nearest Neighbors (KNN), Random Forest e Logistic Regression.
 
 # <a name="c4"></a>4. Resultados e Avaliações
 
 ## 4.1. Análise dos Resultados
 
-Em um exemplo bem interessante, a análise dos dados mostrou que a irrigação não estava ligada diretamente a temperatura, ou seja, independente se estava muito calor, a irrigação era feita sempre com a mesma duração. Após esta análise, ajustamos a irrigação para que ela dure de acordo com a temperatura.
+Temos bastante coisa para mostrar aqui, vamos lá.
+
+Dataset:
+
+Abaixo uma amostra do dataset:
+
+Area	Perimetro	Compacidade	Comprimento	Largura	Assimetria	Nucleo	Target
+
+![image](https://github.com/user-attachments/assets/e5b8b1d4-fefb-49c1-b0b3-4e68dc092e22)
+
+
+As atividades foram divididas em quatro grandes atividades:
+
+Para a **Atividade 1** o objetivo foi analisar e pré-processar os dados fornecidos no dataset.
+
+Abaixo alguns resultados:
+
+Histograma dos componentes:
+![image](https://github.com/user-attachments/assets/2c194f0f-41b4-46c0-a8f9-368e8a908907)
+
+Boxplots dos componentes:
+
+![image](https://github.com/user-attachments/assets/9c32f233-99a3-4ab7-bfc8-aec79db44664)
+
+
+Gráfico de dispersão dos componentes:
+
+![image](https://github.com/user-attachments/assets/bc485aad-d6e5-4b09-8067-f9fcc0628c7a)
+
+Informações Gerais:
+
+![image](https://github.com/user-attachments/assets/e59d769d-b335-47cf-8a21-115618e8151f)
+
+![image](https://github.com/user-attachments/assets/a98b6e9e-2b2e-4a25-b10f-a0805873568b)
+
+![image](https://github.com/user-attachments/assets/05b7804a-348a-452a-b9a5-a9c3c5392b72)
+
+![image](https://github.com/user-attachments/assets/75ab2330-d154-4e60-a759-1e1f2c361131)
+
+
+
+
+
+
+
 
 
 # <a name="c7"></a>Anexos
