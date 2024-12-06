@@ -32,27 +32,41 @@ Deniz Feital Armanhe
 
 ## 1.1. Escopo do Projeto
 
-### 1.1.1. Capítulo 1 - Automação e inteligência na FarmTech Solutions
+### 1.1.1. Cap 3 - Implementando algoritmos de Machine Learning com Scikit-learn
 
-*Nesta nova fase do projeto, Fase 4, o objetivo é levar a implementação da FarmTech Solutions da Fase 3 a um novo nível de sofisticação, incorporando o uso do Scikit-learn, Streamlit, Banco de Dados e otimizações no ESP32*
+Nesta nova fase do projeto, Fase 4, Cap -3, o objetivo é efetuar a análise de um dataset pré-definido, gerando estatísticas descritivas, gráficos e normalização dos dados. Efetuar treinamento utilizando soluções diferentes e analisar os resultados. 
 
 ### 1.1.2. Descrição da Solução Desenvolvida
 
-*A solução foi desenvolvida utilizando atividades do Módulo 3, onde tivemos uma boa preparação com relação ao ESP32, banco de dados e códigos Python. A utilização Scikit-learn e Streamlit foram as novidades desta fase, o que aumentou a qualidade deste entregável com estas funcionalidades. *
+A solução foi desenvolvida utilizando Python e diversos módulos como Pandas, numpy, sklearn, seaborn e matplotlib.pyplot. 
 
 # <a name="c2"></a>2. Visão Geral do Projeto
 
 ## 2.1. Objetivos do Projeto
 
-*Demonstrar as novas funcionalidades deste módulo com a adição das mesmas ao ambiente previamente criado, tornando-o assim mais efetivo. O objetivo é continuar com o aprendizado, e melhor a qualidade das entregas iniciadas em módulos anteriores*
+Demonstrar as novas funcionalidades deste módulo com a adição das mesmas ao ambiente e analisar o dataset fornecido, ajustando-o para que a análise dos dados possa ser feita como esperado.
 
 ## 2.2. Público-Alvo
 
-*Bem, isto é um trabalho da FIAP, mas obviamente a idea é que o aprendizado aqui seja aplicado nas empresas do ramo agrícola. Obviamente o conhecimento aqui é agnóstico, servirá para qualquer área de atuação, o que é excelente*
+Bem, isto é um trabalho da FIAP, mas obviamente a idea é que o aprendizado seja aplicado na análise de dados, como mencionamos acima, diversas funcionalidades foram utilizadas que podem ser úteis para quem está aprendendo Machine Learning. Este trabalho é voltado para o ramo agrícola, mas o conhecimento se aplica a todas as áreas.
 
 ## 2.3. Metodologia
 
-*A metodologia foi utilizar toda a nova documentação *
+*A metodologia foi utilizar toda a nova documentação fornecida no módulo 4 e também nos módulos anteriores. Como base deste trabalho específico, seguimos o CRISP-DM.
+
+O CRISP-DM tem 6 grandes passos. São eles:
+Etapa 1: Entendimento do Negócio
+Etapa 2: Entendimento dos dados
+Etapa 3: Preparação dos dados
+Etapa 4: Desenvolvimento do estudo ou análise
+Etapa 5: Validação
+Etapa 6: Implantação do projeto e acompanhamento
+
+![image](https://github.com/user-attachments/assets/cf2f47ae-d048-41d4-8304-a2c8ece2bbc3)
+
+fonte: https://www.preditiva.ai/blog/entenda-o-crisp-dm-suas-etapas-e-como-de-fato-gerar-valor-com-essa-metodologia
+
+
 
 # <a name="c3"></a>3. Desenvolvimento do Projeto
 
