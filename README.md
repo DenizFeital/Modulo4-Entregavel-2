@@ -24,7 +24,9 @@ Deniz Feital Armanhe - Individual
 
 ## 📜 Descrição
 
-O objetivo é aplicar a metodologia CRISP-DM para desenvolver um modelo de aprendizado de máquina que classifique variedades de grãos de trigo com base em suas características físicas.
+O objetivo é aplicar a metodologia CRISP-DM para desenvolver um modelo de aprendizado de máquina que classifique variedades de grãos de trigo com base em suas características físicas. As atividades consistiram em calcular estatísticas descritivas, geração de gráficos, histogramas e boxplots além de normalização e padronização dos dados.
+
+Foram feitos também comparativos entre diferentes algorítmos de classificação. Por fim, otimização de modelos e retreino.
 
 
 ## 📁 Estrutura de pastas
@@ -41,7 +43,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>scripts</b>: Scripts auxiliares para tarefas específicas do projeto.
 
-- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto ao longo das 7 fases.
+- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto durante este módulo.
 
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
