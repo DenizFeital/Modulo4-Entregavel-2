@@ -50,7 +50,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 Para este engajamento, temos alguns códigos a serem executados:
 
 Os arquivos .py (Python) devem ser executados ou através do comando prompt ou através do Visual Studio Code (modo sugerido). Requisitos para o Python são as bibliotecas que foram adicionadas ao código.
-Como a solução pediu um arquivo notebook, esta versão foi criada usando o jupyter (localmente).
+Como a solução pediu um arquivo notebook, esta versão foi criada usando o jupyter (localmente). Para executá-lo, basta subir o Jupyter na estação e executar o programa modulo4-cap3.ipynb.
 
 As versões utilizadas foram as mais recentes.
 
