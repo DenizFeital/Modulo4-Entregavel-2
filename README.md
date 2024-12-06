@@ -39,7 +39,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>config</b>: Posicione aqui arquivos de configuração que são usados para definir parâmetros e ajustes do projeto.
 
-- <b>document</b>: aqui estão todos os documentos do projeto e o **detalhamento da solução**.
+- <b>document</b>: aqui estão todos os documentos do projeto e o [<mark >**detalhamento da solução**.</mark>](https://github.com/DenizFeital/Modulo4-Entregavel-2/blob/main/document/ai_project_document_fiap.md)
 
 - <b>scripts</b>: Scripts auxiliares para tarefas específicas do projeto.
 
